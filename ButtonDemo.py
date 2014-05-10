@@ -1,4 +1,4 @@
-# Program to demonstrate entry, button and text widgets in Python
+# Program to demonstrate GUI entry, button and text widgets in Python
 
 # Import the tkinter module for GUI components
 from tkinter import *
