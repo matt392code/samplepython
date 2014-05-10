@@ -1,4 +1,4 @@
 samplepython
 ============
 
-Sample Python code
+Few short Python programs that I have written. 
