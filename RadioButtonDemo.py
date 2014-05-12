@@ -31,7 +31,7 @@ class RadioButtonDemo(Frame):
         # Create 3rd radio button
         Radiobutton(self, text="3rd button", variable=self.radiobuttonstorage, value="3rd button", command=self.radiobuttonselection).grid(row=8, column=0, sticky=W)
 
-        # Create 4th radio button
+        # Create 4th radio button 
         Radiobutton(self, text="4th button", variable=self.radiobuttonstorage, value="4th button", command=self.radiobuttonselection).grid(row=9, column=0, sticky=W)
 
         # Set up label for message box/text widget object
