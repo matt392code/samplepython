@@ -15,7 +15,7 @@ class CheckButtonDemo(Frame):
         # Empty row
         Label(self).grid(row=2)
 
-        # Set up label for entry widget
+        # Set up label for check button widget
         Label(self, text="Click one or more check buttons below:", font="Calibri 12").grid(row=3, column=0,sticky=W)
         
         # 1st Tk class variable as BooleanVar() object to store 1st check button selection
