@@ -21,8 +21,8 @@ secondside = input("Enter the second side: ")
 # Get the squares of 2 sides
 firstsidesquared = squarefunction(firstside)
 secondsidesquared = squarefunction(secondside)
-# print "The firstside variable is: ", firstside
-# print "The secondside variable is: ", secondside
+#  print "The firstside variable is: ", firstside
+#  print "The secondside variable is: ", secondside
 
 # Put the squares into the Pythagorean function
 pythagorean(firstsidesquared, secondsidesquared)
