@@ -6,3 +6,4 @@ print("The word or sentence that was entered was: ", StringEntered)
 NumberOfCharacters = len(StringEntered)
 
 print ("The number of characters in the string that was entered is: ", NumberOfCharacters)
+
