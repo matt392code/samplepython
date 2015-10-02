@@ -16,3 +16,4 @@ print (StringEntered[0:RoundedNumber])
 # Break out the second portion 
 print ("The second portion of the string is: ") 
 print (StringEntered[RoundedNumber:])
+
