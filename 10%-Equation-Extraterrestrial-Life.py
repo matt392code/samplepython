@@ -40,3 +40,4 @@ print("Number of stars where basic technology is developed: ", numberstarstechno
 # Calculate the number of stars where interstellar travel technology is developed
 numberstarsinterstellartravel = tenpercent(numberstarstechnology)
 print("Number of stars that develop interstellar travel technology: ", numberstarsinterstellartravel)
+
