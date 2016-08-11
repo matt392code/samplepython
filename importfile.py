@@ -1,4 +1,4 @@
-# Program that reads in a file and prints it out by line and field 
+# Program that reads in a file and prints it out by line and word 
 alphafile = open("testfile.txt")
 for line in alphafile:
     print ("Printing a line: ")
