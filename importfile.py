@@ -10,6 +10,7 @@ for line in alphafile:
     print ("Printing by the word: ")
     print (word)
     
+# Type this in with a text editor and save file in same directory as importfile.py
 # testfile.txt
     #  To be or not to be
     #  That is the question.
